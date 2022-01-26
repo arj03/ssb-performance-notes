@@ -1,4 +1,4 @@
-# ssb-performance-notes
+# SSB  performance notes
 
 ## Testing validation + db query
 
